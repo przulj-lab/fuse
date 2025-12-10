@@ -1,5 +1,4 @@
-# [Fuse: Multiple Network Alignment via Data Fusion](https://doi.org/10.1093/bioinformatics/btv731
-)
+# [Fuse: Multiple Network Alignment via Data Fusion](https://doi.org/10.1093/bioinformatics/btv731)
 
 A novel global multiple network aligner that fuses sequence similarities and network wiring patterns using non-negative matrix tri-factorization (NMTF).
 
@@ -23,7 +22,7 @@ Fuse is a novel global multiple network aligner that operates in two steps:
 
 - **[Supplementary Material](http://www0.cs.ucl.ac.uk/staff/natasa/FUSE/FUSE_supplement.pdf)** (PDF)
 - **[Dataset for Fuse](http://www0.cs.ucl.ac.uk/staff/natasa/FUSE/FUSE_dataset.7zt)**
-- **[Predicted Clusters Table](link-to-xls)** (XLS)
+- **[Predicted Clusters Table](https://github.com/przulj-lab/fuse/blob/main/predicted_clusters_official_gene_symbol.xls)** (XLS)
 
 *Note: If download links don't work when clicked, copy and paste the URLs directly into your browser's address bar.*
 
