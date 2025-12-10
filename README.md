@@ -21,7 +21,7 @@ Fuse is a novel global multiple network aligner that operates in two steps:
 ## Resources
 
 - **[Supplementary Material](http://www0.cs.ucl.ac.uk/staff/natasa/FUSE/FUSE_supplement.pdf)** (PDF)
-- **[Dataset for Fuse](http://www0.cs.ucl.ac.uk/staff/natasa/FUSE/FUSE_dataset.7zt)**
+- **[Dataset for Fuse](http://www0.cs.ucl.ac.uk/staff/natasa/FUSE/FUSE_dataset.7z)**
 - **[Predicted Clusters Table](https://github.com/przulj-lab/fuse/blob/main/predicted_clusters_official_gene_symbol.xls)** (XLS)
 
 *Note: If download links don't work when clicked, copy and paste the URLs directly into your browser's address bar.*
