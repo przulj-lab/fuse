@@ -63,7 +63,7 @@ Run `./FUSE.exe -h` for the full list of parameters.
 
 - [NetCoffee](https://code.google.com/archive/p/netcoffee/)
 - [Smetana](https://biomlsp.com/)
-- [Beams] (http://webprs.khas.edu.tr/~cesim/BEAMS.tar.gz)
+- [Beams](http://webprs.khas.edu.tr/~cesim/BEAMS.tar.gz)
 - [IsoRankN](https://cb.csail.mit.edu/cb/mna/)
 
 ## Citation
